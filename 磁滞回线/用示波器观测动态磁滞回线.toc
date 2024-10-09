@@ -1,0 +1,8 @@
+\contentsline {section}{\numberline {1}观测铁氧体的磁滞回线}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}$100\mathrm {Hz}$下铁氧体饱和磁滞回线的测量结果}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}$50\mathrm {Hz}$、$150\mathrm {Hz}$时$B_r$以及$H_c$的测量}{3}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}不同时间常数下的李萨如图形}{3}{subsection.1.3}%
+\contentsline {section}{\numberline {2}测量铁氧体的动态磁化曲线}{4}{section.2}%
+\contentsline {section}{\numberline {3}测量铁氧体的可逆磁导率以及起始磁导率}{5}{section.3}%
+\contentsline {section}{\numberline {4}给定交变磁场幅度下硅钢的磁滞回线变化规律}{6}{section.4}%
+\contentsline {section}{\numberline {5}原始数据}{7}{section.5}%
