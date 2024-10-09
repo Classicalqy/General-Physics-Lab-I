@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {1}单缝缝宽的测量}{2}{section.1}%
+\contentsline {section}{\numberline {2}三缝衍射的缝宽及缝间距测量}{3}{section.2}%
+\contentsline {section}{\numberline {3}其它形状的衍射图案}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}单方孔衍射}{4}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}双方孔衍射}{5}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}方孔方阵衍射}{5}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}方孔密排衍射}{5}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}单圆孔衍射}{6}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}双圆孔衍射}{6}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}圆孔方阵衍射}{6}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8}圆孔密排衍射}{7}{subsection.3.8}%
+\contentsline {subsection}{\numberline {3.9}等边三角形衍射}{7}{subsection.3.9}%
+\contentsline {subsection}{\numberline {3.10}等腰三角形衍射}{7}{subsection.3.10}%
+\contentsline {section}{\numberline {4}实验记录纸}{9}{section.4}%
